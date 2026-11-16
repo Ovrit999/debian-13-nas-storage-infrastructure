@@ -1,0 +1,7 @@
+# Keep local secrets, backups, and host-specific inventories out of Git.
+*.private
+*.secret
+*.key
+*.pem
+*.bak
+*-local.*
