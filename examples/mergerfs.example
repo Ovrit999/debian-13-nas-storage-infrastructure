@@ -1,0 +1,3 @@
+# PLACEHOLDER ONLY — verify branch paths, order, options, and installed version.
+# This does not establish the user's actual mergerfs configuration.
+<DATA_A_MOUNT_PATH>:<DATA_B_MOUNT_PATH>  <POOL_MOUNT_PATH>  fuse.mergerfs  <VERIFIED_OPTIONS>  0  0
