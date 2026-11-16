@@ -1,0 +1,7 @@
+# PLACEHOLDER ONLY — no real share name, path, user, or credentials.
+[<SHARE_NAME>]
+   path = <VERIFIED_SHARE_PATH>
+   browseable = yes
+   read only = yes
+   valid users = @<AUTHORIZED_GROUP>
+   guest ok = no
