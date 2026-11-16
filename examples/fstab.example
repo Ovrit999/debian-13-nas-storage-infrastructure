@@ -1,0 +1,5 @@
+# PLACEHOLDER ONLY — not copied from the host; UUIDs and mount paths are fictional.
+# Replace with verified filesystem UUIDs and actual mount points before use.
+UUID=<DATA_A_FILESYSTEM_UUID>  <DATA_A_MOUNT_PATH>  <FILESYSTEM>  defaults,nofail  0  2
+UUID=<DATA_B_FILESYSTEM_UUID>  <DATA_B_MOUNT_PATH>  <FILESYSTEM>  defaults,nofail  0  2
+UUID=<PARITY_FILESYSTEM_UUID>  <PARITY_MOUNT_PATH>  <FILESYSTEM>  defaults,nofail  0  2
