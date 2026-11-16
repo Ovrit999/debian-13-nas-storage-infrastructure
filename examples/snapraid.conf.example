@@ -1,0 +1,7 @@
+# PLACEHOLDER ONLY — fictional paths and labels; parity/content mapping unknown.
+# Confirm the exact SnapRAID syntax and disk mapping for the installed version.
+parity <PARITY_MOUNT_PATH>/snapraid.parity
+content <CONTENT_FILE_PATH_A>
+content <CONTENT_FILE_PATH_B>
+data data-a <DATA_A_MOUNT_PATH>
+data data-b <DATA_B_MOUNT_PATH>
